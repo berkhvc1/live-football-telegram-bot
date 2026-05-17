@@ -27,6 +27,8 @@ Bu proje, temel veri çekme (fetching) işlemlerinin ötesine geçerek **Durum Y
 ## 📸 Ekran Görüntüsü
 
 <img width="1600" height="860" alt="Image" src="https://github.com/user-attachments/assets/66c9665c-ddc4-40b5-b8fe-ac26faee36cb" />
+<img width="1600" height="860" alt="Image" src="https://github.com/user-attachments/assets/c944e25a-acae-4e15-834b-bafba663f89c" />
+<img width="921" height="2048" alt="Image" src="https://github.com/user-attachments/assets/95904543-dbf2-4436-b063-60f057df7b8c" />
 
 ## ⚙️ Kurulum ve Çalıştırma
 
